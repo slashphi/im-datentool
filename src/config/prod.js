@@ -1,5 +1,5 @@
 const config = {
-  API_URL: 'http://api.im-datentool.de/graphql',
+  API_URL: 'https://im-tool.azurewebsites.net/graphql',
 };
 
 export default config;
